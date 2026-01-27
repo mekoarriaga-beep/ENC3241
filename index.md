@@ -5,7 +5,7 @@ title: Home
 
 # Meko Arriaga
 
-[Paste your professional paragraph from Week 2 here]
+Meko Arriaga is a future computer scientist. He hopes to use his technical skills to design and improve software. He has experience in programming due to computational coursework and a personal drive to learn about programming. Through volunteering and restaurant work he has developed team building skills, quick judgment and problem solving. Meko is versed in Python and C programming languages through several class projects. He has also been introduced to unity and unreal engine systems and has an interest in pursuing game development.
 
 ## Professional Writing Samples/Projects
 
