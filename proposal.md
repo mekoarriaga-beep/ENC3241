@@ -49,11 +49,11 @@ May 2 – May 15, 2027	Test system and finalize
 Budget 
 Item	                  /Units and Cost/	                Total
 
-Cloud                   /computing resource/	            $25	$25
+Cloud computing resource	  /$25/	$25
 
-Domain                  /name/	                          $20	$20
+Domain name	                /$20/	$20
 
-External                /storage device/	                $75	$75
+External storage device	    /$75/	$75
 
 Total		                                                $120
 
