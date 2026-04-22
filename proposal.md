@@ -34,19 +34,27 @@ United States Census Bureau. “American Community Survey (ACS).” Census.gov, 
 
 Timeline 
 
-Dates	                     Tasks
-January 1, 2027- February 1, 2027	Collect datasets
-February 2 – March 15, 2027	Process and merge collected data
-March 16 – April 15, 2027	Develop and evaluate machine learning models
-April 16 – May 1, 2027	Build visualization tool and integrate model
-May 2 – May 15, 2027	Test system and finalize
+Dates and Tasks
 
+January 1, 2027- February 1, 2027	Collect datasets
+
+February 2 – March 15, 2027	Process and merge collected data
+
+March 16 – April 15, 2027	Develop and evaluate machine learning models
+
+April 16 – May 1, 2027	Build visualization tool and integrate model
+
+May 2 – May 15, 2027	Test system and finalize
 
 Budget 
 Item	                  Units and Cost	                Total
+
 Cloud                   computing resource	            $25	$25
+
 Domain                  name	                          $20	$20
+
 External                storage device	                $75	$75
+
 Total		                                                $120
 
 
