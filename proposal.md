@@ -25,12 +25,16 @@ This project demonstrates how computer science can be applied to address complex
 References
 
 Federal Bureau of Investigation. “Crime/Law Enforcement Stats (UCR Program).” Federal Bureau of Investigation, www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr. Accessed 8 Apr. 2026.
+
 Gerber, Matthew S. “Predicting Crime Using Twitter and Kernel Density Estimation.” Decision Support Systems, vol. 61, May 2014, pp. 115–25. ScienceDirect, https://doi.org/10.1016/j.dss.2014.02.003.
+
 Sampson, Robert J., and W. Byron Groves. “Community Structure and Crime: Testing Social-Disorganization Theory.” American Journal of Sociology, vol. 94, no. 4, 1989, pp. 774–802. JSTOR. Accessed 15 Apr. 2026.
+
 United States Census Bureau. “American Community Survey (ACS).” Census.gov, www.census.gov/programs-surveys/acs.html. Accessed 8 Apr. 2026.
 
 Timeline 
-Dates	Tasks
+
+Dates	                     Tasks
 January 1, 2027- February 1, 2027	Collect datasets
 February 2 – March 15, 2027	Process and merge collected data
 March 16 – April 15, 2027	Develop and evaluate machine learning models
@@ -39,11 +43,11 @@ May 2 – May 15, 2027	Test system and finalize
 
 
 Budget 
-Item	Units and Cost	Total
-Cloud computing resource	$25	$25
-Domain name	$20	$20
-External storage device	$75	$75
-Total		$120
+Item	                  Units and Cost	                Total
+Cloud                   computing resource	            $25	$25
+Domain                  name	                          $20	$20
+External                storage device	                $75	$75
+Total		                                                $120
 
 
 
